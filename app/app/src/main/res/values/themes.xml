@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Khosro.Nature" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#2C6B2F</item>
+        <item name="colorSecondary">#66BB6A</item>
+        <item name="colorAccent">#81C784</item>
+        <item name="android:colorBackground">#F1FAF2</item>
+        <item name="colorSurface">#E3F8DC</item>
+        <item name="android:textColor">#1B5E20</item>
+    </style>
+    <style name="Theme.Khosro" parent="Base.Theme.Khosro.Nature" />
+
+    <style name="roundedImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">12dp</item>
+    </style>
+</resources>

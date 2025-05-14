@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Khosro.Nature" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">#81C784</item>
+        <item name="colorSecondary">#66BB6A</item>
+        <item name="colorAccent">#A5D6A7</item>
+        <item name="android:colorBackground">#121712</item>
+        <item name="colorSurface">#1E2A1E</item>
+        <item name="android:textColor">#F1FAF2</item>
+    </style>
+</resources>

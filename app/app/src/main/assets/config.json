@@ -1,0 +1,52 @@
+{
+  "/led/color/off": {},
+  "/led/color/constant": {
+    "Color": "0x000000"
+  },
+  "/led/color/rainbow": {
+    "N": "1"
+  },
+  "/led/color/dw": {
+    "N": "1",
+    "Duration": "1000"
+  },
+  "/led/color/portion": {
+    "N": "1",
+    "Duration": "1000"
+  },
+  "/led/color/cw": {
+    "N": "1",
+    "Duration": "1000",
+    "RTL": "false"
+  },
+
+  "/led/mode/off": {},
+  "/led/mode/breathe": {
+    "Duration": "1000"
+  },
+  "/led/mode/ffl": {
+    "Duration": "1000"
+  },
+  "/led/mode/ffr": {
+    "Duration": "1000"
+  },
+  "/led/mode/ffb": {
+    "Duration": "1000"
+  },
+  "/led/mode/ffc": {
+    "Duration": "1000"
+  },
+  "/led/mode/so": {
+    "Duration": "1000",
+    "N": "10"
+  },
+  "/led/mode/wo": {
+    "Duration": "1000",
+    "N": "10"
+  },
+  "/led/mode/pbp": {
+    "Duration": "1000",
+    "RTL": "false"
+  },
+  "/led/mode/fs": { }
+}
