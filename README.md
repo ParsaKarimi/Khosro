@@ -107,9 +107,7 @@ ESP32 runs a local HTTP server with endpoints accessible from the app:
 
 ### Final Build
 ![Khosro Final Build](assets/khosro-final.jpg)
-
-### Lighting & Audio Demo (GIF)
-![Khosro Lighting Demo](assets/khosro-lighting.gif)
+![Khosro Final Build](assets/khosro-final-lights.jpg)
 
 ### LED Testing During Build (GIF)
 ![LED Testing](assets/khosro-testing.gif)
