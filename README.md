@@ -141,7 +141,7 @@ Let’s grow the Khosro community together!
 - [Parsa Karimi](https://github.com/ParsaKarimi)
 - Roham Ahmadpoor
 - Ashkan Karimi
-- Avesta Nooshirvanpoor
+- [Avesta Nooshirvanpoor](https://github.com/Avesta-np)
 - Kian Soleimani
 
 Thank you to everyone who contributed their time, creativity, and effort to bring this project to life!
